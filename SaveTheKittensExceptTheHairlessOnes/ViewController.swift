@@ -8,6 +8,8 @@
 
 import UIKit
 
+print("Hey")
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -22,4 +24,5 @@ class ViewController: UIViewController {
 
 
 }
+
 
